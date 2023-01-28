@@ -1,0 +1,40 @@
+body{
+  background-color: yellow;
+}
+
+.container{
+  width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.card{
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  background: linear-gradient(to top left, red, green, blue);
+  text-align: center;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.dayYear{
+  margin-top: 95px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.hoursTime{
+  color: #dad8d8;
+  font-size: 30px;
+}
+
+.day{
+  color: aqua;
+  font-size: 18px;
+}
